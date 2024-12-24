@@ -341,6 +341,12 @@
       "name": "weather.weatherbug.com"
     },
     {
+      "seller_id": "4569100",
+      "seller_type": "INTERMEDIARY",
+      "domain": "jamx.ai",
+      "name": "JAMX Ltd"
+    },
+    {
       "seller_id": "4567577",
       "seller_type": "PUBLISHER",
       "domain": "wildspike.com",
