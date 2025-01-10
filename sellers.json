@@ -17,6 +17,12 @@
       "name": "rakuten.tv"
     },
     {
+      "seller_id": "620",
+      "seller_type": "PUBLISHER",
+      "domain": "mobilityware.com",
+      "name": "mobilityware.com"
+    },
+    {
       "seller_id": "4567117",
       "seller_type": "PUBLISHER",
       "domain": "tap-nation.io",
@@ -219,24 +225,6 @@
       "seller_type": "PUBLISHER",
       "domain": "livefootball.ie",
       "name": "livefootball.ie"
-    },
-    {
-      "seller_id": "4567119",
-      "seller_type": "INTERMEDIARY",
-      "domain": "mobilityware.com",
-      "name": "mobilityware.com"
-    },
-    {
-      "seller_id": "4567119",
-      "seller_type": "PUBLISHER",
-      "domain": "mobilityware.com",
-      "name": "mobilityware.com"
-    },
-    {
-      "seller_id": "4567568",
-      "seller_type": "PUBLISHER",
-      "domain": "mobilityware.com",
-      "name": "mobilityware.com"
     },
     {
       "seller_id": "4567551",
@@ -9237,18 +9225,6 @@
       "seller_type": "INTERMEDIARY",
       "domain": "mobile.pixelgun3d.com",
       "name": "mobile.pixelgun3d.com"
-    },
-    {
-      "seller_id": "620",
-      "seller_type": "INTERMEDIARY",
-      "domain": "mobilityware.com",
-      "name": "mobilityware.com"
-    },
-    {
-      "seller_id": "620",
-      "seller_type": "PUBLISHER",
-      "domain": "mobilityware.com",
-      "name": "mobilityware.com"
     },
     {
       "seller_id": "4569021",
