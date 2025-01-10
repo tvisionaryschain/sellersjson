@@ -7,7 +7,7 @@
     {
       "seller_id": "4567107",
       "seller_type": "PUBLISHER",
-      "domain": "playsimple.in",
+      "domain": "playsimple.in"
       "name": "playsimple.in"
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "seller_id": "4567119",
-      "seller_type": "PUBLISHER",
+      "seller_type": "INTERMEDIARY",
       "domain": "mobilityware.com",
       "name": "mobilityware.com"
     },
