@@ -29,6 +29,12 @@
       "name": "iversoft.ca"
     },
     {
+      "seller_id": "4567294",
+      "seller_type": "PUBLISHER",
+      "domain": "scopely.com",
+      "name": "scopely.com"
+    },
+    {
       "seller_id": "620",
       "seller_type": "PUBLISHER",
       "domain": "mobilityware.com",
@@ -64,7 +70,7 @@
       "domain": "sazi.info",
       "name": "sazi.info"
     },
-        {
+    {
       "seller_id": "4567563",
       "seller_type": "PUBLISHER",
       "domain": "solarvpn.com",
