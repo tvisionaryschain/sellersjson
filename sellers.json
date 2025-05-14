@@ -437,6 +437,12 @@
       "name": "wildspike.com"
     },
     {
+     "seller_id": "4567255",
+     "seller_type": "PUBLISHER",
+     "domain": "smaato.com",
+     "name": "smaato"
+    },
+    {
       "seller_id": "4567558",
       "seller_type": "PUBLISHER",
       "domain": "yologamestudio.com",
