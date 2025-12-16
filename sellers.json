@@ -11,10 +11,10 @@
       "name": "playsimple"
     },
     {
-      "seller_id": "4567556",
+      "seller_id": "4567601",
       "seller_type": "PUBLISHER",
-      "domain": "rakuten.tv",
-      "name": "rakuten.tv"
+      "domain": "desoline.com",
+      "name": "desoline.com"
     },
     {
       "seller_id": "4567117",
@@ -23,22 +23,10 @@
       "name": "TapNation"
     },
     {
-      "seller_id": "4567169",
-      "seller_type": "PUBLISHER",
-      "domain": "voodoo.io",
-      "name": "Voodoo"
-    },
-    {
      "seller_id": "4567550",
      "seller_type": "PUBLISHER",
      "domain": "veraxen.com",
      "name": "veraxen"
-    },
-    {
-      "seller_id": "4567236",
-      "seller_type": "PUBLISHER",
-      "domain": "iversoftgames.com",
-      "name": "iversoft.ca"
     },
     {
       "seller_id": "4567294",
@@ -51,6 +39,12 @@
       "seller_type": "PUBLISHER",
       "domain": "mobilityware.com",
       "name": "mobilityware.com"
+    },
+    {
+      "seller_id": "4567556",
+      "seller_type": "PUBLISHER",
+      "domain": "rakuten.tv",
+      "name": "rakuten.tv"
     },
     {
       "seller_id": "4567540",
@@ -71,6 +65,12 @@
       "name": "plex.tv"
     },
     {
+      "seller_id": "4567236",
+      "seller_type": "PUBLISHER",
+      "domain": "iversoftgames.com",
+      "name": "iversoft.ca"
+    },
+    {
       "seller_id": "4567561",
       "seller_type": "PUBLISHER",
       "domain": "my-cast.tv",
@@ -81,12 +81,6 @@
       "seller_type": "PUBLISHER",
       "domain": "sazi.info",
       "name": "sazi.info"
-    },
-    {
-      "seller_id": "4567601",
-      "seller_type": "PUBLISHER",
-      "domain": "desoline.com",
-      "name": "desoline.com"
     },
     {
       "seller_id": "4567563",
@@ -153,6 +147,12 @@
       "seller_type": "PUBLISHER",
       "domain": "apkrabi.com",
       "name": "apkrabi.com"
+    },
+    {
+      "seller_id": "4567169",
+      "seller_type": "PUBLISHER",
+      "domain": "voodoo.io",
+      "name": "Voodoo"
     },
     {
       "seller_id": "4567560",
