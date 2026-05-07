@@ -23,6 +23,30 @@
       "name": "TapNation"
     },
     {
+     "seller_id": "4567109",
+     "seller_type": "PUBLISHER",
+     "name": "Future Today Inc.",
+     "domain": "futuretodayinc.com"
+    },
+    {
+    "seller_id": "50219",
+    "seller_type": "PUBLISHER",
+    "domain": "tap-nation.io",
+    "name": "tap-nation.io"
+   },
+   {
+    "seller_id": "4567110",
+    "seller_type": "PUBLISHER",
+    "domain": "Scripps Media Inc",
+    "name": "scripps.com"
+   },
+   {
+    "seller_id": "4567111",
+    "seller_type": "PUBLISHER",
+    "domain": "Fubo",
+    "name": "fubo.tv"
+    },
+    {
      "seller_id": "4567550",
      "seller_type": "PUBLISHER",
      "domain": "veraxen.com",
